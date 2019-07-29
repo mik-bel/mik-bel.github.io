@@ -431,7 +431,7 @@ figure {
   font-size: 12px;
   margin-top: -7px;
   content: "\e922";
-  color: #fff;
+  color: #E61F59;
 }
 #fh5co-primary-menu > li > ul li {
   position: relative;
@@ -454,7 +454,7 @@ figure {
   top: 20px;
   font-size: 12px;
   content: "\e924";
-  color: rgba(0, 0, 0, 0.5);
+  color: #E61F59;
 }
 
 #fh5co-primary-menu .fh5co-sub-menu {
