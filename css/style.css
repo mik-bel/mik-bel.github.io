@@ -525,12 +525,12 @@ figure {
   padding: 0 15px;
   font-size: 18px;
   line-height: 34px;
-  color: #fff !important;
+  color: #E61F59 !important;
   text-transform: none;
   background: none;
 }
 #fh5co-primary-menu .fh5co-sub-menu a:hover {
-  color: #fffacd !important;
+  color: #42C0EF !important;
 }
 
 #fh5co-work-section,
