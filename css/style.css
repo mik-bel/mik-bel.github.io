@@ -533,7 +533,7 @@ figure {
   color: #42C0EF !important;
 }
 
-#fh5co-primary-menu .sf-menu.sf-js-enabled.sf-arrows {
+#fh5co-primary-menu > ul > li {
 	color: #E61F59 !important;
 }
 
