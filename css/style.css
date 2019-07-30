@@ -407,7 +407,9 @@ figure {
   z-index: 2;
   display: block;
   float: right;
-  margin-top: 15px;
+  vertical-align: middle;
+/*  margin-top: 15px; 
+*/
 }
 #fh5co-menu-wrap .sf-menu a {
   padding: 1em .75em;
